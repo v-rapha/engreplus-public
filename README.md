@@ -36,7 +36,7 @@ Disponibilizamos parte do código, <strong>no qual não consiste na aplicação 
 
 ---
 
- ### 🔥 Como usar
+ ### 🔥 Instalação e inicialização
 
  #### Pré-requisitos
 
@@ -79,6 +79,28 @@ Disponibilizamos parte do código, <strong>no qual não consiste na aplicação 
     # Automáticamente será aberta uma janela no seu navegador padrão.
     # Caso isso não ocorra acesse: localhost:3000.
 ```
+
+---
+
+### 🏡 Sobre a aplicação
+
+Para cadastrar um usuário você precisa entrar na tela de <strong>administrador</strong> da aplicação.
+
+<h3 align="center">
+    <img alt="administrador" title="#administrador" width="1000px" src=".github/administrador.png">
+</h3>
+
+Em seguida, cadastre um usuário com seu <strong>nome</strong> e <strong>senha</strong>.
+
+<h3 align="center">
+    <img alt="cadastro" title="#cadastro" width="1000px" src=".github/cadastro.png">
+</h3>
+
+Por fim, volte para a tela inicial e realize o <strong>login</strong> usando os respectivos dados cadastrados.
+
+<h3 align="center">
+    <img alt="login" title="#login" width="1000px" src=".github/login.png">
+</h3>
 
 ---
 
