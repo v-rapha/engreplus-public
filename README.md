@@ -18,7 +18,7 @@
 
 ### 📺 Apresentação:
 
-A <strong>EngrePlus</strong> é uma aplicação feita para uma empresa de criação e conserto de engrenagens. O sistema consiste em aprimorar o controle e gerenciamento de serviços/pagamentos da empresa.
+A <strong>EngrePlus</strong> é uma aplicação feita para uma empresa de criação e conserto de engrenagens. O sistema tem como função aprimorar o controle e gerenciamento de serviços/pagamentos da empresa.
 Disponibilizamos parte do código, <strong>no qual não consiste na aplicação e layout final.</strong>
 
 <h3 align="center">
@@ -46,7 +46,7 @@ Disponibilizamos parte do código, <strong>no qual não consiste na aplicação 
 ##### 1º :page_facing_up: Clone no repositório:
 
 ```sh
-    $ git clone https://github.com/Silva4g/TCC.git
+    $ git clone https://github.com/ViniPiantoni/engreplus-public.git
 ```
 
 ##### 2º :fast_forward: Instale as dependências usando NPM ou YARN e execute a aplicação:
@@ -115,4 +115,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito com ❤️ by [Vinicius Piantoni](https://www.linkedin.com/in/vinicius-piantoni-328339186).#
+Feito com ❤️ by [Vinicius Piantoni](https://www.linkedin.com/in/vinicius-piantoni-328339186).
